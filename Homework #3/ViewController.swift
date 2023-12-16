@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
+//        Hello world
+//        test system
+        
+        let test = ""
+        
         //    1. Универсальные функции сложения, вычитания, умножения и деления через перегрузку функций.
         
         
