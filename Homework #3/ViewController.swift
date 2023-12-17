@@ -14,8 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-//        Hello world  test system
-//        Check changin https to ssh
+//        Hello world
+//        test system
         
         let test = ""
         
